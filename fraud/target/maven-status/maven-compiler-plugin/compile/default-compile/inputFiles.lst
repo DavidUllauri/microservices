@@ -1,0 +1,5 @@
+/workspace/microservices/fraud/src/main/java/com/amigoscode/fraud/FraudController.java
+/workspace/microservices/fraud/src/main/java/com/amigoscode/fraud/FraudCheckHistory.java
+/workspace/microservices/fraud/src/main/java/com/amigoscode/fraud/FraudCheckHistoryRepository.java
+/workspace/microservices/fraud/src/main/java/com/amigoscode/fraud/FraudApplication.java
+/workspace/microservices/fraud/src/main/java/com/amigoscode/fraud/FraudCheckService.java

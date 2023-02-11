@@ -1,0 +1,6 @@
+/workspace/microservices/customer/src/main/java/com/amigoscode/customer/CustomerController.java
+/workspace/microservices/customer/src/main/java/com/amigoscode/customer/CustomerRegistrationRequest.java
+/workspace/microservices/customer/src/main/java/com/amigoscode/customer/Customer.java
+/workspace/microservices/customer/src/main/java/com/amigoscode/customer/CustomerApplication.java
+/workspace/microservices/customer/src/main/java/com/amigoscode/customer/CustomerRepository.java
+/workspace/microservices/customer/src/main/java/com/amigoscode/customer/CustomerService.java

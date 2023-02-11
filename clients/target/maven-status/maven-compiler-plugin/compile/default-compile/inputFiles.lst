@@ -1,0 +1,4 @@
+/workspace/microservices/clients/src/main/java/com/amigoscode/clients/notification/NotificationClient.java
+/workspace/microservices/clients/src/main/java/com/amigoscode/clients/fraud/FraudClient.java
+/workspace/microservices/clients/src/main/java/com/amigoscode/clients/fraud/FraudCheckResponse.java
+/workspace/microservices/clients/src/main/java/com/amigoscode/clients/notification/NotificationRequest.java
